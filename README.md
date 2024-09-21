@@ -1,0 +1,2 @@
+# obsidian-citrus
+Obsidian theme
