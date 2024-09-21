@@ -1,2 +1,3 @@
-# obsidian-citrus
-Obsidian theme
+# Obsidian Citrus
+
+Obsidian theme with citrus colors.
